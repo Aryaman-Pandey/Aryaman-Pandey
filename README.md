@@ -6,6 +6,11 @@
 <a href="https://twitter.com/nobrakebicycle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nobrakebicycle" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aryamanpandey1808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryamanpandey1808" height="30" width="40" /></a>
 <a href="https://instagram.com/nobrakebicycle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nobrakebicycle" height="30" width="40" /></a>
+</p>
+  
+  
+<h3 align="left">Have a look at my Coding Profile: </h3>
+<p align="left">
 <a href="https://www.codechef.com/users/aryaman1808" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aryaman1808" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pandeyavi1808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pandeyavi1808" height="30" width="40" /></a>
 </p>
